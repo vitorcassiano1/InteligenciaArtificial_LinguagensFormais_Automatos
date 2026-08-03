@@ -1,0 +1,2 @@
+# InteligenciaArtificial_LinguagensFormais_Automatos
+Atividades da disciplina InteligenciaArtificial_LinguagensFormais_Automatos
