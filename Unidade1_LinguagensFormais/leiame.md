@@ -24,7 +24,8 @@ a) Gere a palavra aaabbb
 s => aSb
 aSb => aaSbb
 aaSbb => aaaSbbb
-aaaSbbb => aaabbb
+aaaSbbb => aaaϵbbb
+aaaϵbbb => aaabbb
 
 
 b) É possível gerar aabbb?
