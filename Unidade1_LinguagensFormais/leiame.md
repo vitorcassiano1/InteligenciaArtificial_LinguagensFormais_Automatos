@@ -11,7 +11,7 @@ aS => aaS
 aaS => aaaS
 aaaS => aaab
 
-b) Como sabemos que a derivação terminou 
+b) Como sabemos que a derivação terminou? 
 
 A derivação termina quanado a forma sentencial contém somente símbolos terminais
 
@@ -19,7 +19,7 @@ A derivação termina quanado a forma sentencial contém somente símbolos termi
 
 Bloco 2 - GLC
 
-a) Gera a palavra aaabbb
+a) Gere a palavra aaabbb
 
 s => aSb
 aSb => aaSbb
@@ -27,6 +27,22 @@ aaSbb => aaaSbbb
 aaaSbbb => aaabbb
 
 
-b) É possível gerar aabbb
+b) É possível gerar aabbb?
 
 A gramatica irá gerar sempre a mesma quantidades de a e b, portanto não é possível
+
+
+Bloco 3 - Classificação
+
+Classifique como regular ou livre de contexto
+
+S -> aA | A -> b
+
+Resposta: É uma gramática regular
+
+
+
+
+
+
+
