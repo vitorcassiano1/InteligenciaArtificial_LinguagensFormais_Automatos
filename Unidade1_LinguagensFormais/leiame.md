@@ -14,3 +14,19 @@ aaaS => aaab
 b) Como sabemos que a derivação terminou 
 
 A derivação termina quanado a forma sentencial contém somente símbolos terminais
+
+
+
+Bloco 2 - GLC
+
+a) Gera a palavra aaabbb
+
+s => aSb
+aSb => aaSbb
+aaSbb => aaaSbbb
+aaaSbbb => aaabbb
+
+
+b) É possível gerar aabbb
+
+A gramatica irá gerar sempre a mesma quantidades de a e b, portanto não é possível
