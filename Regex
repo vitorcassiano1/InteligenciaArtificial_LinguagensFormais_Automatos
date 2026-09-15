@@ -1,0 +1,40 @@
+https://colab.research.google.com/drive/1RfRK4na2rlDBJzAKoto5hnS-xj1W4E-X?usp=sharing
+
+import re
+
+padrao_email = r"^[A-Za-z0-9._+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$"
+
+validos = []
+invalidos = []
+
+emails = [
+    "maria@gmail.com",
+    "joao.silva@udf.edu.br",
+    "estudante_01@faculdade.com",
+    "pedro.gmail.com",
+    "ana@dominio"
+]
+
+for email in emails:
+    if re.fullmatch(padrao_email, email):
+        validos.append(email)
+    else:
+        invalidos.append(email)
+
+print("E-MAILS VÁLIDOS:")
+for email in validos:
+    print(email)
+
+print("\nE-MAILS INVÁLIDOS:")
+for email in invalidos:
+    print(email)
+
+print("\nMOTIVO DOS E-MAILS INVÁLIDOS:")
+
+for email in invalidos:
+    if "@" not in email:
+        print(f"{email}: não possui o símbolo @.")
+    elif "." not in email.split("@")[1]:
+        print(f"{email}: não possui uma extensão no domínio.")
+    else:
+        print(f"{email}: formato inválido.")
