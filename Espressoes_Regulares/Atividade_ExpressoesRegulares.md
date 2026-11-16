@@ -1,10 +1,5 @@
 # Aula 05 — Expressões Regulares
 
-**Estudante:** Brayan Aragão Pletsch  
-**RGM:** 38473585  
-**Curso/Turma:** Engenharia de Software - N1 (6º semestre, noturno)  
-**Disciplina:** Linguagens Formais e Autômatos  
-**Profª:** Kadidja Valéria
 
 Arquivos desta pasta:
 
