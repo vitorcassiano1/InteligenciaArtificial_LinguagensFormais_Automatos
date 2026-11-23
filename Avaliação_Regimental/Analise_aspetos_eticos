@@ -1,7 +1,24 @@
-
-        #Análise dos aspectos éticos\n
-        \n
-        Privacidade e dados\n
-        \n
-        O sistema utiliza apenas informações sobre o funcionamento do computador, sem solicitar nome, endereço, documentos ou outros dados pessoais. Por exemplo, uma pessoa que utiliza o sistema informa que seu computador não liga. Como essa informação não identifica diretamente o usuário, o risco à privacidade é reduzido. A equipe manterá a coleta limitada aos sintomas necessários para realizar o diagnóstico.
-      
+"cell_type": "markdown",
+      "source": [
+        "# Análise dos aspectos éticos\n",
+        "\n",
+        "Privacidade e dados\n",
+        "\n",
+        "O sistema utiliza apenas informações sobre o funcionamento do computador, sem solicitar nome, endereço, documentos ou outros dados pessoais. Por exemplo, uma pessoa que utiliza o sistema informa que seu computador não liga. Como essa informação não identifica diretamente o usuário, o risco à privacidade é reduzido. A equipe manterá a coleta limitada aos sintomas necessários para realizar o diagnóstico."
+      ],
+      "metadata": {
+        "id": "hiL15li81lam"
+      },
+      "id": "hiL15li81lam"
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Declaração sobre o uso de IA\n",
+        "\n",
+        "IA presente no projeto: Utilizamos a biblioteca Scikit-learn para criar uma árvore de decisão que prevê possíveis problemas de alimentação ou vídeo. As regras que definem as recomendações foram desenvolvidas pela equipe.\n",
+        "\n",
+        "IA utilizada na preparação do trabalho: Utilizamos o ChatGPT para organizar as ideias e auxiliar na análise ética. O conteúdo foi revisado pela equipe, que é responsável pelas informações apresentadas."
+      ],
+      "metadata": {
+        "id": "RSCS9LUP1xAM"
