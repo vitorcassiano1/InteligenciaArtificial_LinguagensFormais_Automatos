@@ -1,0 +1,7 @@
+ "source": [
+        "# Análise dos aspectos éticos\n",
+        "\n",
+        "Privacidade e dados\n",
+        "\n",
+        "O sistema utiliza apenas informações sobre o funcionamento do computador, sem solicitar nome, endereço, documentos ou outros dados pessoais. Por exemplo, uma pessoa que utiliza o sistema informa que seu computador não liga. Como essa informação não identifica diretamente o usuário, o risco à privacidade é reduzido. A equipe manterá a coleta limitada aos sintomas necessários para realizar o diagnóstico."
+      ],
